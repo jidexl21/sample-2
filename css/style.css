@@ -1,0 +1,23 @@
+.box {
+    padding: 15px; 
+    background-color: #ddd;
+    border: 1px solid #cecece;
+}
+.top-nav {
+    margin-bottom: 30px;
+}
+.posts {
+    margin-bottom: 30px;
+}
+
+.posts .box {
+
+    min-height: 150px;
+    padding: 0; 
+    border: none;
+    background-color: transparent;
+}
+
+.post-content .box {
+    min-height: 300px;
+}
